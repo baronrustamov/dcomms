@@ -9,3 +9,4 @@ conf/mau/*
 !conf/mastodon/mastodon.env.production
 !conf/mau/config.yaml
 !conf/caddy/Caddyfile.tmpl
+.DS_Store
